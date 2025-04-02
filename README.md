@@ -63,23 +63,6 @@ I am a **Computer Science & Financial Management** student, @ the University of 
 <br>
 <br>
 
-<!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***: Private Repos Excluded
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats-glro.vercel.app/api?username=xanderrp2&theme=nightowl&show_icons=true&count_private=false" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats-glro.vercel.app/api/top-langs/?username=xanderrp2&theme=nightowl&hide_border=false&langs_count=10&count_private=false"/>
-</td>
-</tr>
-</table>
-</p>
-<br>
 
 <!-- Employer Section -->
 <!--
