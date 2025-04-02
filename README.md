@@ -1,5 +1,5 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0359.gif" height="5%" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/xanderrp2">Xander!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/XanderRP">Xander!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <img src = "https://media1.tenor.com/m/yp_aFUgHMx8AAAAd/nakanoart-nakanodrawing.gif" width = 35>&nbsp;***About me***
@@ -17,7 +17,7 @@ I am a **Computer Science & Financial Management** student, @ the University of 
 
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:xanderdrakerp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="mailto:xrutherf@uwaterloo.ca"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/alexander-rp/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
   <a href="https://www.instagram.com/friendlywatergiant"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
   <a href="https://xanderrp2.github.io"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
