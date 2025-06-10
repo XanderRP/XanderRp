@@ -63,7 +63,7 @@ I am a **Computer Science & Financial Management** student, @ the University of 
 <br>
 <br>
 
-![Xander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Xander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XanderRP&show_icons=true&theme=radical)
 
 
 
