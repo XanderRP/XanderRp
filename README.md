@@ -20,7 +20,7 @@ I am a **Computer Science & Financial Management** student, @ the University of 
   <a href="mailto:xrutherf@uwaterloo.ca"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/alexander-rp/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
   <a href="https://www.instagram.com/friendlywatergiant"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://xanderrp2.github.io"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
+  <a href="https://xanderrp.github.io"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
 </div>
 
 <br>
@@ -79,7 +79,7 @@ I am a **Computer Science & Financial Management** student, @ the University of 
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/xanderrp2/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/xanderrp/count.svg">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>
